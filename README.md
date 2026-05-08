@@ -11,7 +11,7 @@ The site is a guide for Cal State LA students who work while in school. It intro
 - **Live website:** GitHub Pages (deploy after upload) https://jalilgreen11-png.github.io/Working-Students/index.html
 - **Site narrative (Google Docs):** [View narrative](https://docs.google.com/document/d/1ZsXms2Xw7aF4BbiRghaYYwt-HQqtUU4KaovRztyDAIk/edit?usp=sharing)
 - **Figma prototype:** [View Figma file](https://www.figma.com/design/ryAjipKf2rO0UoHficuXBy/Project-cis-3610?node-id=16-59&t=lXFSgr0cfdh3nKXI-1)
-- **Lighthouse performance report:** [View PDF]( ./lighthous report.pdf)
+- **Lighthouse performance report:** [View PDF](./lighthous%20report.pdf)
 
 ---
 
